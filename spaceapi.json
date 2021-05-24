@@ -6,17 +6,21 @@
   "url": "https://mkmakerspace.co.uk",
   "location": {
     "address": "30 Burners Lane, Kiln Farm, Milton Keynes MK11 3HB",
-    "lon": 52.048,
-    "lat": -0.824,
+    "lon": -0.760560,
+    "lat": 52.041439
   },
   "contact": {
     "facebook": "https://www.facebook.com/MKMakerspace",
     "ml": "https://groups.google.com/g/milton-keynes-makerspace"
   },
+  "state": {
+    "message": "Check Slack for opening",
+    "open": null
+  },
   "issue_report_channels": ["ml"],
 
   "projects": [
     "http://github.com/mkmakerspace",
-    "https://mkmakerspace.co.uk/",
+    "https://mkmakerspace.co.uk/"
   ]
 }
