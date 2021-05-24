@@ -1,0 +1,22 @@
+{
+  "api": "0.13",
+  "api_compatibility": ["14"],
+  "space": "Milton Keynes Makerspace",
+  "logo": "https://mkmakerspace.co.uk/wp-content/uploads/2016/11/mkmakerspace-mis-website-logo-1.png",
+  "url": "https://mkmakerspace.co.uk",
+  "location": {
+    "address": "30 Burners Lane, Kiln Farm, Milton Keynes MK11 3HB",
+    "lon": 52.048,
+    "lat": -0.824,
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/MKMakerspace",
+    "ml": "https://groups.google.com/g/milton-keynes-makerspace"
+  },
+  "issue_report_channels": ["ml"],
+
+  "projects": [
+    "http://github.com/mkmakerspace",
+    "https://mkmakerspace.co.uk/",
+  ]
+}
